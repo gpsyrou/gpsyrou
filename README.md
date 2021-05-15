@@ -29,6 +29,3 @@ My passion is around topics related statistics, computer science and the interse
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?&logo=microsoft-azure&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask)
-
-📫 How to reach me: georgios.spyrou1@gmail.com
-
