@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### :computer: :books: Interests
-My passion is around topics related statistics, computer science and the intersection of these two fields (these days this is called Machine Learning). I enjoy working with different types of algorthims, from classification & regression, to clustering and graph/network models and find a way to apply them to real world problems.
+My passion is around topics related statistics, computer science and the intersection of these two fields (these days this is called Machine Learning). I enjoy working with different types of algorithms, from classification & regression, to clustering and graph/network models, and find a way to use them to investigate and solve real world problems.
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
