@@ -30,6 +30,8 @@ My passion is around topics related to statistics, computer science and the inte
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?&logo=microsoft-azure&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask)
 ![Shell cript](https://img.shields.io/badge/-Shell_Script-121011?&logo=gnu-bash)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?&logo=Jupyter)
+
 
 <!--
 -- ![George's github stats](https://github-readme-stats.vercel.app/api?username=gpsyrou&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
