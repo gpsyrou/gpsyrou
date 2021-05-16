@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### :computer: :books: Interests
-My passion is around topics related statistics, computer science and the intersection of these two fields (these days this is called Machine Learning). I enjoy working with different types of algorithms, from classification & regression, to clustering and graph/network models, and find a way to use them to investigate and solve real world problems.
+My passion is around topics related to statistics, computer science and the intersection of these two fields (these days this is called Machine Learning). I enjoy working with different types of algorithms, from classification & regression,to clustering and graph/network models, and find a way to use them to investigate and solve real world problems.
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -29,6 +29,7 @@ My passion is around topics related statistics, computer science and the interse
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?&logo=microsoft-azure&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask)
+![Shell cript](https://img.shields.io/badge/-Shell_Script-121011?&logo=gnu-bash)
 
 <!--
 -- ![George's github stats](https://github-readme-stats.vercel.app/api?username=gpsyrou&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
