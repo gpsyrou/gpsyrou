@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 Thank you for visiting my profile. My name is Georgios (but you can call me George) and I am a Data Scientist currently living in London, UK.
 
