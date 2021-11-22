@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-Thank you for visiting my profile. My name is Georgios (but you can call me George) and I am a Data Scientist currently living in London, UK.
+Thank you for visiting my profile. My name is George and I am a Data Scientist currently living in London, UK.
 
 <!--
 **gpsyrou/gpsyrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ### :computer: :books: Interests
-My passion is around topics related to statistics, computer science and the intersection of these two fields. I enjoy working with different types of algorithms, from classification & regression,to clustering and graph/network models, and find a way to use them to investigate and solve real world problems. 
+My passion is around topics related to statistics, computer science and the intersection of these two fields. I enjoy working with different types of algorithms, from classification & regression, to clustering and graph/network models, and find ways to use my data analytics experience to investigate and solve real world problems. 
+
+Motto: _"Life is short, use Python"_
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
