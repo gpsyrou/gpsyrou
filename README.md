@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-Thank you for visiting my profile. My name is George and I am a Data Scientist currently living in London, UK.
+Thank you for visiting my profile. My name is George and I am a Data Scientist currently working and living in London, UK.
 
 <!--
 **gpsyrou/gpsyrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
