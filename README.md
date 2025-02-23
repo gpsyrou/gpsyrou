@@ -1,40 +1,42 @@
-### 👋 Hi there 
+### 👋 Hi there! 
 
-Thank you for visiting my profile. My name is George and I am a Data Scientist currently working and living in London, UK.
+Welcome to my GitHub profile! I'm **George**, a **Data Scientist** based in **London, UK** 🇬🇧. I specialize in using data-driven solutions to tackle real-world problems, leveraging my background in **statistics** 📊 and **computer science** 💻.  
 
-<!--
-**gpsyrou/gpsyrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I'm passionate about exploring the intersection of **data science** and **software development**. My focus lies in:  
+- **Building scalable ETL/ML pipelines**  
+- **Developing advanced machine learning models**  
+- **Designing interactive visualization tools** to make data insights more accessible & actionable  
 
-Here are some ideas to get you started:
+I enjoy working with a wide range of algorithms, from **classification & regression** to **clustering & graph models**, always looking for innovative ways to extract meaningful insights from data.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _"Life is short, use Python."_ 🐍  
 
-### :computer: :books: Interests
-My passion is around topics related to statistics, computer science and the intersection of these two fields. I enjoy working with different types of algorithms, from classification & regression, to clustering and graph/network models, and find ways to use my data analytics experience to investigate and solve real world problems. 
+### 🔧 Tech Stack  
 
-Motto: _"Life is short, use Python"_
+#### **Languages & Tools**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![R](https://img.shields.io/badge/-R-000?&logo=R)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)  
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)  
+![C](https://img.shields.io/badge/-C-000?&logo=C)  
 
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![R](https://img.shields.io/badge/-R-000?&logo=R)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?&logo=microsoft-azure&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask)
-![Shell cript](https://img.shields.io/badge/-Shell_Script-121011?&logo=gnu-bash)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?&logo=Jupyter)
-![Amazon Web Services](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white)
+#### **Data & ML**  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?&logo=Keras&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?&logo=plotly)  
+![NetworkX](https://img.shields.io/badge/-NetworkX-1f8acb?&logo=python)  
 
-<!--
--- ![George's github stats](https://github-readme-stats.vercel.app/api?username=gpsyrou&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
--->
+#### **Cloud & DevOps**  
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0089D6?&logo=microsoft-azure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)  
+![Flask](https://img.shields.io/badge/-Flask-000000?&logo=Flask)  
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-orange?&logo=Jupyter)  
+
+### 📚 Continuous Learning  
+I believe in **lifelong learning** and enjoy working on **side projects** to expand my skills and experiment with new technologies. Check out my projects here:  
+👉 [GitHub Repositories](https://github.com/gpsyrou)  
